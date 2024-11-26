@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+}
+.Z{
+    font-size: small;
+}
+
+.C{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 14px;
+}
+h2 {
+    color: rgb(63, 250, 63);
+    font-style: italic;
+}
+.headline{
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.ul{
+    font-size: small;
+    letter-spacing: 6px;
+    color: brown;
+}
+
+.Highlight {
+    background-color: yellow;
+    font-style: bold;
+}
+.A{
+    color: maroon;
+}
+.B{
+    color: maroon;
+    font-size: 7px;
+}
+
+    
+
+
+
+
+
